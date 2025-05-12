@@ -9,9 +9,9 @@
 
 > 使用 OpenAI API 接口
 
-- Python3
-- 高德地图 天气 API : https://console.amap.com/dev
 - 硅基流动 LLM API : https://cloud.siliconflow.cn/models?tags=Tools
+
+- 高德地图 天气 API : https://console.amap.com/dev
 
 ## 快速启动
 
